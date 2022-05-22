@@ -1,0 +1,48 @@
+[
+    {
+    "id": "1",
+    "modelo": "MF-5",
+    "marca": "etna",
+    "cantidad": "12",
+    "precio": "94.00",
+    "descripcion": "Batería de larga duración y económica",
+    "link_imagen": " https://www.servisa.com.pe/wp-content/uploads/2020/05/bateria1.jpg"
+    },
+    {
+    "id": "2",
+    "modelo": "SU-1217 PRO",
+    "marca": "etna",
+    "cantidad": "10",
+    "precio": "1405.72",
+    "descripcion": "Batería económica sin sellar",
+    "link_imagen": " https://www.google.com/aclk?sa=l&ai=DChcSEwivtbjdzev1AhVB5bMKHQX8B-8YABAJGgJxbg&sig=AOD64_2jxe9sU3J0Zp1ZUpIo3cZwgxSfBw&adurl&ctype=5&ved=2ahUKEwj3gazdzev1AhVtkuAKHX-HCxwQvhd6BAgBEEc "
+    },
+    {
+    "id": "3",
+    "modelo": "12N7B-3A",
+    "marca": "capsa",
+    "cantidad": "7",
+    "precio": "42.01",
+    "descripcion": "Batería eficiente para motos",
+    "link_imagen": " https://www.google.com/url?sa=i&url=https%3A%2F%2Fditesac.com%2Fcategoria-producto%2Fbaterias%2Fbaterias-para-motos%2Fcapsa%2Fpage%2F2%2F&psig=AOvVaw339tW4vMXKOl8r1MBv2Tfk&ust=1644254914187000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiuvIvN6_UCFQAAAAAdAAAAABAD"
+    },
+    {
+    "id": "4",
+    "modelo": " RC 90",
+    "marca": "record ",
+    "cantidad": "12",
+    "precio": "348.69",
+    "descripcion": "Batería de larga duración",
+    "link_imagen": " https://www.google.com/url?sa=i&url=http%3A%2F%2Fbateriasrecord.com.pe%2Fproducto%2Fbateria-record-plus-rc-90-b%2F&psig=AOvVaw3Ye2rJ3_S2chqyWEFJysrV&ust=1644254826460000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDMn9nM6_UCFQAAAAAdAAAAABAH"
+    },
+    {
+    "id": "5",
+    "modelo": "RNS 40 PLUS",
+    "marca": "record",
+    "cantidad": "12",
+    "precio": "219.83",
+    "descripcion": "Batería de larga duración",
+    "link_imagen": " https://www.google.com/url?sa=i&url=http%3A%2F%2Fbateriasrecord.com.pe%2Fproducto%2Fbateria-record-plus-rns-40%2F&psig=AOvVaw3UUyYEXlSUgJCeqrMWPtpw&ust=1644254687560000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjag5fM6_UCFQAAAAAdAAAAABAP"
+    }
+    ]
+    
